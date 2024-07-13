@@ -18,7 +18,7 @@ The script utilizes the `subprocess` module in Python to run the `netsh wlan sho
 ## Usage
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/wifi-password-finder.git
+   git clone https://github.com/srihari-976/WifiPasswordFinder.git
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
